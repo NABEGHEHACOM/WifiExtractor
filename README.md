@@ -6,7 +6,7 @@ Please note that the user is responsible for using this Script.
 <br />
 <p align="center">
     <a href="https://youtu.be/kc2shu5COos">
-        <img src="https://nabegheha.com/img/wifipassword-script_github.jpg" alt="AmirHosein Moallemi">
+        <img src="https://raw.githubusercontent.com/NABEGHEHACOM/WifiExtractor/refs/heads/main/wifipassword-script_github.jpg" alt="AmirHosein Moallemi">
     </a>
 </p>
 
